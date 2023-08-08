@@ -18,7 +18,7 @@ body:
     id: reproduction
     attributes:
       label: Reproduction
-      description: Steps to reproduce the behavior. Alternatively, a [minimal reproduction](https://stackoverflow.com/help/minimal-reproducible-example) would be more appreciated.
+      description: Steps to reproduce the behavior. Alternatively, a [Minimal Reproduction](https://stackoverflow.com/help/minimal-reproducible-example) would be more appreciated.
       placeholder: How To Reproduce
     validations:
       required: true
@@ -36,6 +36,7 @@ body:
     attributes:
       label: Additional context
       description: Add any other context or screenshots about the problem here.
+      placeholder: Additional context information
   - type: checkboxes
     id: checkboxes
     attributes:

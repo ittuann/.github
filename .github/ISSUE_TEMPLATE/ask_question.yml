@@ -7,8 +7,8 @@ body:
       value: |
         ## Kindly note
 
-        We encourage you to use discussions instead of asking about usage in Github issues.
-        It's preferable to discuss larger matters here.
+        We encourage you to use Github discussions instead of asking about usage in issues.
+        It's preferable to issues larger matters here.
   - type: textarea
     id: question-description
     attributes:
@@ -27,9 +27,11 @@ body:
     validations:
       required: true
   - type: textarea
-    id: context
+    id: additional-context
     attributes:
       label: Additional context
+      description: Add any other context or screenshots about the question here.
+      placeholder: Additional context information
   - type: checkboxes
     id: checkboxes
     attributes:
