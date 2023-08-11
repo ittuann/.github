@@ -1,6 +1,8 @@
 name: 👀 Typo / Grammar fix
 description: You can just go ahead and send a PR! Thank you!
+title: '[Typo] '
 labels: []
+
 body:
   - type: markdown
     attributes:

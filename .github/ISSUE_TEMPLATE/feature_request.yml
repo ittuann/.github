@@ -1,11 +1,13 @@
 name: 🚀 New feature proposal
 description: Propose a new feature request
-labels: [enhancement]
+title: '[feature] '
+labels: [feature]
+
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for your interest in the project and taking the time to fill out this feature report!
+        Thanks for your interest in the project and taking the time to fill out this feature enhancement report!
   - type: textarea
     id: feature-description
     attributes:
