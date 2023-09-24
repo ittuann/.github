@@ -1,6 +1,6 @@
 name: 🚀 New feature proposal
 description: Propose a new feature request
-title: '[feature] '
+title: "[feature] "
 labels: [feature]
 
 body:
@@ -12,14 +12,14 @@ body:
     id: feature-description
     attributes:
       label: Clear and concise description of your idea
-      description: 'A clear and concise description of what the feature would do. If you intend to submit a PR for this issue, tell us in the description. Thanks!'
+      description: "A clear and concise description of what the feature would do. If you intend to submit a PR for this issue, tell us in the description. Thanks!"
     validations:
       required: true
   - type: textarea
     id: helpful-description
     attributes:
       label: Describe how the idea would be helpful
-      description: 'A clear and concise description of how the feature would be helpful to users.'
+      description: "A clear and concise description of how the feature would be helpful to users."
     validations:
       required: true
   - type: textarea
@@ -38,4 +38,3 @@ body:
           required: true
         - label: Remember to follow the community guidelines and be friendly.
           required: true
-          

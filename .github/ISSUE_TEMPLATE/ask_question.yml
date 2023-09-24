@@ -1,7 +1,7 @@
 name: 🤔 Ask question
 description: Consider using discussions for simple usage questions instead of issues.
-title: '[Ask] '
-labels: []
+title: "[Ask] "
+labels: [ask]
 
 body:
   - type: markdown
