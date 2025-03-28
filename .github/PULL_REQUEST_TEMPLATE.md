@@ -19,10 +19,5 @@ Thank you for contributing!
 
 ## Checklist
 
-- [ ] I have tested these changes thoroughly.
-- [ ] I have updated the relevant documentation.
-- [ ] I have updated any necessary dependencies.
-
-### Copilot Descriptions
-
-copilot:all
+- [ ] I have thoroughly tested these changes locally.
+- [ ] Remember to follow the Code of Conduct and be friendly.
